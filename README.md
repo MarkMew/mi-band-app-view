@@ -1,1 +1,4 @@
 # mi band app view
+
+
+
